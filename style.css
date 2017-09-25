@@ -1,0 +1,52 @@
+*{margin: 0;
+padding: 0;}
+.input_type{
+	height: 30px;
+	margin-bottom: 8px;
+	border-radius: 5px;
+	border: 1px solid gray;
+	
+
+}
+::-webkit-input-placeholder{
+font-size: 20px;
+padding-left: 3px;
+}
+::-moz-placeholder{
+	font-size: 20px;
+	padding-left: 3px;
+}
+:-moz-placeholder{
+	font-size: 20px;
+	padding-left: 3px;
+}
+::-ms-input-placeholder{
+	font-size: 20px;
+	padding-left: 3px;
+}
+
+.select_input{
+	height: 30px;
+	width: 60px;
+}
+.day_input{
+	margin: -4px;
+}
+.submit_button{
+	height: 40px;
+	width: 180px;
+	font-weight: bold;
+	font-size: 20px;
+	border-radius: 5px;
+	border: 1px solid green;
+	background-color: green;
+	color: white
+}
+.sign_up{
+	float: right;
+	margin-right: 2px;
+	margin-top: 10px;
+}
+.field{
+	width: 465px;
+}
